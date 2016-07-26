@@ -1,12 +1,13 @@
 <html>
 <body>
- Hello-world
+Hello-world
+
+<a href="www.google.com">GOOGLE</a>
+<p id="demo"></p>
 
 <script>
 document.getElementById("demo").innerHTML = Date();
 </script>
 
-<a href="www.google.com">GOOGLE</a>
-<p id="demo"></p>
 </body>
 </html>
