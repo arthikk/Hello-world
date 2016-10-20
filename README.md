@@ -2,7 +2,7 @@
 <body>
 Hello-world
 
-<p id="demo"></p>
+<p id="demo">Hi</p>
 
 <script>
 document.getElementById("demo").innerHTML = Date();
