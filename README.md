@@ -1,6 +1,6 @@
 <html>
 <body>
-You enter a date in y m d format
+You enter a date in y m d format. It gives out a result.
 
 <p id="demo"></p>
 
